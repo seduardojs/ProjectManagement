@@ -1,0 +1,15 @@
+1942 [main] INFO  o.j.r.p.g.GuiceResteasyBootstrapServletContextListener - found module: com.ai.alm.MainModule
+2109 [main] INFO  com.ai.alm.MainModule - ==>> App Properties = {welcome.message=Dude, Hello World!}
+2483 [main] INFO  o.j.r.plugins.guice.ModuleProcessor - registering factory for com.ai.alm.resource.HomeResource
+2518 [main] INFO  o.j.r.plugins.guice.ModuleProcessor - registering factory for com.ai.alm.resource.NameResource
+333846 [Thread-1] INFO  o.e.j.s.listener.ELContextCleaner - javax.el.BeanELResolver purged
+1321 [main] INFO  o.j.r.p.g.GuiceResteasyBootstrapServletContextListener - found module: com.ai.alm.MainModule
+1433 [main] INFO  com.ai.alm.MainModule - ==>> App Properties = {welcome.message=Dude, Hello World!}
+1759 [main] INFO  o.j.r.plugins.guice.ModuleProcessor - registering factory for com.ai.alm.resource.HomeResource
+1786 [main] INFO  o.j.r.plugins.guice.ModuleProcessor - registering factory for com.ai.alm.resource.NameResource
+9062 [Thread-1] INFO  o.e.j.s.listener.ELContextCleaner - javax.el.BeanELResolver purged
+1464 [main] INFO  o.j.r.p.g.GuiceResteasyBootstrapServletContextListener - found module: com.ai.alm.MainModule
+1559 [main] INFO  com.ai.alm.MainModule - ==>> App Properties = {welcome.message=Dude, Hello World!}
+1821 [main] INFO  o.j.r.plugins.guice.ModuleProcessor - registering factory for com.ai.alm.resource.HomeResource
+1848 [main] INFO  o.j.r.plugins.guice.ModuleProcessor - registering factory for com.ai.alm.resource.NameResource
+605157 [Thread-1] INFO  o.e.j.s.listener.ELContextCleaner - javax.el.BeanELResolver purged
